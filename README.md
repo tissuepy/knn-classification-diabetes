@@ -1,6 +1,6 @@
 <br />
 <div align="center">
-    <img src="icon.png" alt="Logo" width="120" height="120">
+    <img src="diabetes.png" alt="Logo" width="120" height="120">
   </a>
 
   <h3 align="center">KNN Classification for Diabetes</h3>
